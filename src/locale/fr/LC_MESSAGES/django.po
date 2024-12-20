@@ -1,0 +1,73 @@
+# locale/fr/LC_MESSAGES/django.po
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgenus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-24 10:00+0000\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: users/models.py:15
+msgid "email address"
+msgstr "adresse e-mail"
+
+#: users/models.py:16
+msgid "first name"
+msgstr "prénom"
+
+#: users/models.py:17
+msgid "last name"
+msgstr "nom"
+
+#: users/models.py:18
+msgid "phone number"
+msgstr "numéro de téléphone"
+
+#: users/models.py:19
+msgid "active"
+msgstr "actif"
+
+#: users/models.py:20
+msgid "staff status"
+msgstr "statut du personnel"
+
+#: users/models.py:21
+msgid "date joined"
+msgstr "date d'inscription"
+
+#: users/managers.py:14
+msgid "The Email must be set"
+msgstr "L'email doit être défini"
+
+#: users/managers.py:24
+msgid "Superuser must have is_staff=True."
+msgstr "Le superutilisateur doit avoir is_staff=True."
+
+#: users/managers.py:26
+msgid "Superuser must have is_superuser=True."
+msgstr "Le superutilisateur doit avoir is_superuser=True."
+
+#: users/views.py:
+msgid "User created successfully"
+msgstr "Utilisateur créé avec succès"
+
+#: users/views.py:
+msgid "Invalid credentials"
+msgstr "Identifiants invalides"
+
+#: users/views.py:
+msgid "Password reset email sent"
+msgstr "E-mail de réinitialisation du mot de passe envoyé"
+
+# Error messages
+msgid "This field is required."
+msgstr "Ce champ est obligatoire."
+
+msgid "Enter a valid email address."
+msgstr "Entrez une adresse e-mail valide."
+
+msgid "This email already exists."
+msgstr "Cet e-mail existe déjà."

@@ -1,0 +1,23 @@
+ .dockerignore
+.git
+.gitignore
+.env
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+.pytest_cache
+.coverage
+htmlcov/
+.DS_Store
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+env/
+venv/
+.env
+db.sqlite3
+media/
+docker/Readme.md
